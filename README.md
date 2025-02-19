@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Devnatsf/Devnatsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Natalia, Sou uma programadora Front End, atualmente estou aprendendo e criando projetos com:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+<br>
+ ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<br>
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devnatsf)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
+[![Devnatsf stats](https://github-readme-stats.vercel.app/api?username=Devnatsf)](https://github.com/anuraghazra/github-readme-stats)
